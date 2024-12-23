@@ -1,0 +1,8 @@
+Flask
+flask-socketio
+opencv-python
+numpy
+shapely
+ultralytics
+python-dotenv
+boto3
